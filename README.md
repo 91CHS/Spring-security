@@ -12,5 +12,6 @@ JWT구현은 문제가 좀 있어서 직접 못 해봄
 
 ![image](https://github.com/91CHS/SpringSecurity-JWT/assets/68048878/bff0e9fe-310f-4215-8479-c96222aed307)
 
+![image](https://github.com/91CHS/SpringSecurity-JWT/assets/68048878/a75de834-d6c4-4262-bc78-9f8fb019a5f1)
 
 
